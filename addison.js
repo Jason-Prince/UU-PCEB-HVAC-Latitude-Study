@@ -24,8 +24,8 @@ window.addEventListener("load", function () {
   // Favicon and Title
   const title = document.querySelector("title");
   title.innerText = "M.S. Addison and Associates, LLC | Building Performance Simulation";
-//   const link = document.querySelector("link");
-//   link.href = "images/test.svg";
+  const link = document.querySelector("link");
+  link.href = "images/faviconAddison.svg";
 
   // Fonts
   const head = document.querySelector("head");

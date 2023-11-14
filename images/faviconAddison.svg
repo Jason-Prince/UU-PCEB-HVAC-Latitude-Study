@@ -1,0 +1,33 @@
+<svg version="1.1" viewBox="0 0 647.78 124.67" xmlns="http://www.w3.org/2000/svg">
+	<defs>
+		<clipPath id="clipPath18">
+			<path d="m0 6.1035e-5h612v792h-612z" style="clip-rule:evenodd"/>
+		</clipPath>
+		<clipPath id="clipPath28">
+			<path d="m0 0h492.86v99.863h-492.86z"/>
+		</clipPath>
+		<clipPath>
+			<path d="m9.12e-6 0h612v792h-612z" style="clip-rule:evenodd"/>
+		</clipPath>
+	</defs>
+	<g transform="matrix(1.3386 0 0 -1.3333 -103.34 955.58)">
+		<g clip-path="url(#clipPath18)">
+			<g transform="matrix(6.8347,-7.54e-7,-9.4e-8,1.375,72.06,620.94)">
+				<g transform="scale(.14609 .72099)">
+					<g clip-path="url(#clipPath28)">
+						<path d="m377.49 57.5h108.16" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m380.66 66.729h101.24" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m387.58 75.959h87.97" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m399.12 85.189h65.62" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m418.82 94.418h26.83" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:4.32;stroke:#00f"/>
+						<path d="m484.78 39.553h-108.16" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+						<path d="m481.61 30.323h-101.24" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+						<path d="m474.69 21.094h-87.97" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+						<path d="m463.15 11.864h-65.62" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+						<path d="m445.65 2.6345h-26.83" style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.75;stroke:#00f"/>
+					</g>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
